@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # 예시
-<img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=red"/>
+<img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 

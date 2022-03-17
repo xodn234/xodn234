@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/Google Colab-orange?style=plastic&logo=Google Colab&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Jupyter-orange?style=plastic&logo=Jupyter&logoColor=black"/>
-<img src="https://img.shields.io/badge/Visual Studio-blueviolet?style=plastic&logo=Visual Studio&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google Colab-orange?style=plastic&logo=Google Colab&logoColor=black"/>  <img src="https://img.shields.io/badge/Jupyter-orange?style=plastic&logo=Jupyter&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Visual Studio-blueviolet?style=plastic&logo=Visual Studio&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=plastic&logo=Visual Studio Code&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=black"/> /
+
+<img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=black"/> 
 
 

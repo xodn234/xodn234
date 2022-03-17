@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Google Colab-orange?style=plastic&logo=Google Colab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-orange?style=plastic&logo=Jupyter&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual Studio-blueviolet?style=plastic&logo=Visual Studio&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-blue?style=plastic&logo=Visual Studio Code&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=black"/>
-<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
+
 

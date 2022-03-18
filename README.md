@@ -19,27 +19,28 @@ https://shields.io/
 https://simpleicons.org/?q=visual%20st
 
 <div align="center">
-<img src="https://img.shields.io/badge/GitHub-lightgray?style=plastic&logo=GitHub&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Velog-green?style=plastic&logo=Velog&logoColor=black"/>
-<img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=Gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=Gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=black"/>
 </div>
 
 - - -
 <div align="center">
-<img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=black"/> 
-<img src="https://img.shields.io/badge/C-inactive?style=plastic&logo=C&logoColor=black"/> 
-<img src="https://img.shields.io/badge/pandas-informational?style=plastic&logo=pandas&logoColor=black"/> 
-<img src="https://img.shields.io/badge/NumPy-yellow?style=plastic&logo=NumPy&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Plotly-inactive?style=plastic&logo=Plotly&logoColor=black"/> 
-<img src="https://img.shields.io/badge/scikit-learn-orange?style=plastic&logo=scikit-learn&logoColor=black"/> 
-<img src="https://img.shields.io/badge/TensorFlow-orange?style=plastic&logo=TensorFlow&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Keras-critical?style=plastic&logo=Keras&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=black"/> 
+<img src="https://img.shields.io/badge/C-a8b9cc?style=plastic&logo=C&logoColor=black"/> 
+<img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/> 
+<img src="https://img.shields.io/badge/scikit-learn-f7931e?style=plastic&logo=scikit-learn&logoColor=black"/> 
+<img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Keras-d00000?style=plastic&logo=Keras&logoColor=black"/>
 </div>
 
 - - -
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-critical?style=plastic&logo=Git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=Git&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google Colab-orange?style=plastic&logo=Google Colab&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Jupyter-orange?style=plastic&logo=Jupyter&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Visual Studio-blueviolet?style=plastic&logo=Visual Studio&logoColor=black"/> 

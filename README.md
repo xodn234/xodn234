@@ -18,6 +18,19 @@ Here are some ideas to get you started:
 https://shields.io/
 https://simpleicons.org/?q=visual%20st
 
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xodn234&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodn234&layout=compact&theme=tokyonight)
+
+
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn234)]
+(https://solved.ac/xodn234)
+ -->
+
+- - -
+
 <div align="center">
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=black"/>
@@ -66,14 +79,3 @@ https://simpleicons.org/?q=visual%20st
 </div>
 
 - - -
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xodn234&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodn234&layout=compact&theme=tokyonight)
-
-
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn234)]
-(https://solved.ac/xodn234)
- -->
-

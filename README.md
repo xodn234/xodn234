@@ -49,8 +49,8 @@ https://simpleicons.org/?q=visual%20st -->
 <div align="center">
 <img src="https://img.shields.io/badge/Google Colab-f9ab00?style=plastic&logo=Google Colab&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=plastic&logo=Jupyter&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=plastic&logo=Visual Studio&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-004acc?style=plastic&logo=Visual Studio Code&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=plastic&logo=Visual Studio&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Anaconda-44a833?style=plastic&logo=Anaconda&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Docker-2496ed?style=plastic&logo=Docker&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=Git&logoColor=black"/>

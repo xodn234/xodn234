@@ -66,6 +66,7 @@ https://simpleicons.org/?q=visual%20st -->
 <br>
 
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn234) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodn234&layout=compact&theme=tokyonight)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn234) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodn234&layout=compact&theme=tokyonight)
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xodn234&show_icons=true&theme=tokyonight) -->
 

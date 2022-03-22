@@ -36,13 +36,13 @@ https://simpleicons.org/?q=visual%20st -->
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=black"/> 
-<img src="https://img.shields.io/badge/C-a8b9cc?style=plastic&logo=C&logoColor=black"/> 
 <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/> 
 <img src="https://img.shields.io/badge/scikit-learn-f7931e?style=plastic&logo=scikit-learn&logoColor=black"/> 
 <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Keras-d00000?style=plastic&logo=Keras&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-a8b9cc?style=plastic&logo=C&logoColor=black"/> 
 </div>
 
 

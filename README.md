@@ -23,9 +23,11 @@ https://simpleicons.org/?q=visual%20st -->
 
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxodn234&count_bg=%23030303&title_bg=%23A93535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/>
+<a href="https://github.com/xodn234">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/>
+</a>
 <a href="https://velog.io/@xodn234">
-<img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=black"/>
 </a>
 <img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=Gmail&logoColor=black"/>
 <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=black"/>

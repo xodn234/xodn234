@@ -31,7 +31,7 @@ https://simpleicons.org/?q=visual%20st -->
 </a>
 <a href="matilto:xodn234@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=Gmail&logoColor=black"/>
- </a>
+</a>
 <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=black"/>
 </div>
 

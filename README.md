@@ -24,7 +24,7 @@ https://simpleicons.org/?q=visual%20st -->
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxodn234&count_bg=%23030303&title_bg=%23A93535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-  <a href="https://github.com/xodn234](https://fabulous-crawdad-ec8.notion.site/Data-Scientist-cd814b3efebb4fee90eff04b55f4951c">
+  <a href="https://fabulous-crawdad-ec8.notion.site/Data-Scientist-cd814b3efebb4fee90eff04b55f4951c">
   <img src="https://img.shields.io/badge/Resume-181717?style=plastic&logo=Notion&logoColor=black"/>
   
   <a href="https://github.com/xodn234">

@@ -55,17 +55,17 @@ https://simpleicons.org/?q=visual%20st -->
   
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=black"/> 
-<img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
+<!-- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/>  -->
 <img src="https://img.shields.io/badge/scikit-learn-f7931e?style=plastic&logo=scikit-learn&logoColor=black"/> 
 <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Keras-d00000?style=plastic&logo=Keras&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-a8b9cc?style=plastic&logo=C&logoColor=black"/> 
+<!-- <img src="https://img.shields.io/badge/C-a8b9cc?style=plastic&logo=C&logoColor=black"/>  -->
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://img.shields.io/badge/Google Colab-f9ab00?style=plastic&logo=Google Colab&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=plastic&logo=Jupyter&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-004acc?style=plastic&logo=Visual Studio Code&logoColor=black"/>
@@ -73,7 +73,7 @@ https://simpleicons.org/?q=visual%20st -->
 <img src="https://img.shields.io/badge/Anaconda-44a833?style=plastic&logo=Anaconda&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Docker-2496ed?style=plastic&logo=Docker&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=Git&logoColor=black"/>
-</div>
+</div> -->
 
 
 <div align="center">
@@ -86,13 +86,13 @@ https://simpleicons.org/?q=visual%20st -->
 <div align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=black"/>
-<img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=black"/> -->
 </div>
 <br>
 
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn234) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodn234&layout=compact&theme=tokyonight)
+<!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn234) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xodn234&layout=compact&theme=tokyonight) -->
 
   <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xodn234&show_icons=true&theme=tokyonight) -->
 <br>

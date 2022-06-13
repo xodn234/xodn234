@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/xodn234/naver_resume/blob/main/README.md
 
 
 <!-- https://shields.io/

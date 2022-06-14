@@ -37,8 +37,8 @@ https://simpleicons.org/?q=visual%20st -->
 <!--   <a href="https://fabulous-crawdad-ec8.notion.site/Data-Scientist-cd814b3efebb4fee90eff04b55f4951c">
   <img src="https://img.shields.io/badge/Resume-a8b9cc?style=plastic&logo=Notion&logoColor=black"/> -->
   
-  <a href="https://github.com/xodn234">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/>
+<!--   <a href="https://github.com/xodn234">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/> -->
 </a>
 <a href="https://velog.io/@xodn234">
   <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=black"/>

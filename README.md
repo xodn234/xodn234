@@ -50,42 +50,68 @@ https://simpleicons.org/?q=visual%20st -->
 
 <br>
   
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776ab?style=plastic&logo=Python&logoColor=black"/> 
-<!-- <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
+<!-- div align="center" -->
+### Language
+<div/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=black"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&&logoColor=black"/> 
+</div>
+
+### Data Science
+<div/>
+<img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/>  -->
 <img src="https://img.shields.io/badge/scikit-learn-f7931e?style=plastic&logo=scikit-learn&logoColor=black"/> 
 <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Keras-d00000?style=plastic&logo=Keras&logoColor=black"/>
-<!-- <img src="https://img.shields.io/badge/C-a8b9cc?style=plastic&logo=C&logoColor=black"/>  -->
+<img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/>  
 </div>
 
+### Data Engineering
+<div/>
+<img src="https://img.shields.io/badge/Apache NiFi-343434?style=plastic&logo=Apache&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=plastic&logo=Apache Airflow&logoColor=black"/> 
+</div>
 
-<!-- <div align="center">
-<img src="https://img.shields.io/badge/Google Colab-f9ab00?style=plastic&logo=Google Colab&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Jupyter-f37626?style=plastic&logo=Jupyter&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Visual Studio Code-004acc?style=plastic&logo=Visual Studio Code&logoColor=black"/>
-<img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=plastic&logo=Visual Studio&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Anaconda-44a833?style=plastic&logo=Anaconda&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Docker-2496ed?style=plastic&logo=Docker&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=Git&logoColor=black"/>
-</div> -->
-
-
-<div align="center">
+### DB
+<div/>
 <img src="https://img.shields.io/badge/SQLite-003b57?style=plastic&logo=SQLite&logoColor=black"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=plastic&logo=PostgreSQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=MongoDB&logoColor=black"/>
 </div>
 
-
-<div align="center">
-<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=black"/> 
+### Web
+<div/>
+<img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=black"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=Gunicorn&logoColor=black"/> 
+<img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=black"/>
-<!-- <img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=black"/> -->
 </div>
-<br>
+
+### OS
+<div/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=Windows&logoColor=black"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macOS&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=black"/>
+<img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=black"/>
+</div>
+
+### Other
+<div/>
+<img src="https://img.shields.io/badge/Google Colab-f9ab00?style=plastic&logo=Google Colab&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Jupyter-f37626?style=plastic&logo=Jupyter&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-004acc?style=plastic&logo=Visual Studio Code&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=plastic&logo=Visual Studio&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Anaconda-44a833?style=plastic&logo=Anaconda&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=Git&logoColor=black"/>
+</div>
+
+
 
 
 <!-- ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xodn234) 

@@ -81,19 +81,14 @@ Thank you.
 <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Keras-d00000?style=plastic&logo=Keras&logoColor=black"/> 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=black"/>
+<img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/> 
 </div>
 
 #### Data Engineering
 <div/>
 <img src="https://img.shields.io/badge/Apache NiFi-343434?style=plastic&logo=Apache&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=plastic&logo=Apache Airflow&logoColor=black"/> 
-</div>
-
-#### Data Other
-<div/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=black"/>
-<img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/> 
 </div>
 
 #### DB
@@ -105,6 +100,7 @@ Thank you.
 
 #### Web
 <div/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=black"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=Gunicorn&logoColor=black"/> 

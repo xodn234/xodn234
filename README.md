@@ -1,5 +1,31 @@
-
 # 🍀 Hello! TaeWoo GitHub
+<br>
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxodn234&count_bg=%23030303&title_bg=%23A93535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  
+<!--   <a href="https://fabulous-crawdad-ec8.notion.site/Data-Scientist-cd814b3efebb4fee90eff04b55f4951c">
+  <img src="https://img.shields.io/badge/DS_Resume-a8b9cc?style=plastic&logo=Notion&logoColor=black"/>
+
+  <a href="https://www.notion.so/Data-Engineer-6c58be5e9b41468aa2ae8d017b5eec42">
+  <img src="https://img.shields.io/badge/DE_Resume-a8b9cc?style=plastic&logo=Notion&logoColor=black"/>
+    
+<!--   <a href="https://fabulous-crawdad-ec8.notion.site/Data-Scientist-cd814b3efebb4fee90eff04b55f4951c">
+  <img src="https://img.shields.io/badge/Resume-a8b9cc?style=plastic&logo=Notion&logoColor=black"/> -->
+  
+<!--   <a href="https://github.com/xodn234">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/> -->
+</a>
+<a href="https://velog.io/@xodn234">
+  <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=black"/>
+</a>
+<a href="mailto:xodn234@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=Gmail&logoColor=black"/>
+</a>
+<a href="mailto:xodn234@naver.com">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=black"/>
+</a>
+</div>
+
 ### **Interested**
 - Data Science
 - Data Engineering
@@ -36,33 +62,6 @@ Here are some ideas to get you started:
 <!-- https://shields.io/
 https://simpleicons.org/?q=visual%20st -->
 
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxodn234&count_bg=%23030303&title_bg=%23A93535&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  
-<!--   <a href="https://fabulous-crawdad-ec8.notion.site/Data-Scientist-cd814b3efebb4fee90eff04b55f4951c">
-  <img src="https://img.shields.io/badge/DS_Resume-a8b9cc?style=plastic&logo=Notion&logoColor=black"/>
-
-  <a href="https://www.notion.so/Data-Engineer-6c58be5e9b41468aa2ae8d017b5eec42">
-  <img src="https://img.shields.io/badge/DE_Resume-a8b9cc?style=plastic&logo=Notion&logoColor=black"/>
-    
-<!--   <a href="https://fabulous-crawdad-ec8.notion.site/Data-Scientist-cd814b3efebb4fee90eff04b55f4951c">
-  <img src="https://img.shields.io/badge/Resume-a8b9cc?style=plastic&logo=Notion&logoColor=black"/> -->
-  
-<!--   <a href="https://github.com/xodn234">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/> -->
-</a>
-<a href="https://velog.io/@xodn234">
-  <img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Velog&logoColor=black"/>
-</a>
-<a href="mailto:xodn234@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=Gmail&logoColor=black"/>
-</a>
-<a href="mailto:xodn234@naver.com">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=black"/>
-</a>
-</div>
-
-<br>
 
 I am passionate about data and technology. In the process of creating appropriate infrastructure for data analysis, I strive to improve the stability and performance of the system by applying the concepts and techniques of data engineering and DevOps. Recently, I have been studying Docker and Kubernetes to implement these technologies.
 

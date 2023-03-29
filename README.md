@@ -1,3 +1,5 @@
+# 🍀 Introduction
+
 <div align="center">
 <!-- Hi there 👋 -->
 </div>
@@ -50,15 +52,20 @@ https://simpleicons.org/?q=visual%20st -->
 
 <br>
 
-- - -
 I am passionate about data and technology. In the process of creating appropriate infrastructure for data analysis, I strive to improve the stability and performance of the system by applying the concepts and techniques of data engineering and DevOps. Recently, I have been studying Docker and Kubernetes to implement these technologies.
 
 My goal is to increase the efficiency of data analysis by building a data pipeline for fast analysis and effective data visualization. To become a data scientist, I am constantly learning new technologies and concepts, and accumulating knowledge and experience in data and technology.
 
 Thank you.
-- - -
+
+<br>
+<br>
+<br>
+
+# 🦾 Skill
+
 <!-- div align="center" -->
-### Language
+#### Language
 <div/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&&logoColor=black"/> 
@@ -66,7 +73,7 @@ Thank you.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&&logoColor=black"/> 
 </div>
 
-### Data Science
+#### Data Science
 <div/>
 <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=black"/> 
 <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=black"/> 
@@ -76,27 +83,27 @@ Thank you.
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=black"/>
 </div>
 
-### Data Engineering
+#### Data Engineering
 <div/>
 <img src="https://img.shields.io/badge/Apache NiFi-343434?style=plastic&logo=Apache&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=plastic&logo=Apache Airflow&logoColor=black"/> 
 </div>
 
-### Data Other
+#### Data Other
 <div/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=black"/>
 <img src="https://img.shields.io/badge/Metabase-509ee3?style=plastic&logo=Metabase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Plotly-3f4f75?style=plastic&logo=Plotly&logoColor=black"/> 
 </div>
 
-### DB
+#### DB
 <div/>
 <img src="https://img.shields.io/badge/SQLite-003b57?style=plastic&logo=SQLite&logoColor=black"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=plastic&logo=PostgreSQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=MongoDB&logoColor=black"/>
 </div>
 
-### Web
+#### Web
 <div/>
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=black"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=black"/> 
@@ -105,7 +112,7 @@ Thank you.
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=black"/>
 </div>
 
-### OS
+#### OS
 <div/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=black"/>
@@ -116,7 +123,7 @@ Thank you.
 <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=black"/>
 </div>
 
-### Other
+#### Other
 <div/>
 <img src="https://img.shields.io/badge/Google Colab-f9ab00?style=plastic&logo=Google Colab&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=plastic&logo=Jupyter&logoColor=black"/> 

@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=150&text=Hi%20there👋&fontAlignY=30&desc=TaeWoo%20GitHub&fontColor=d6ace6)
-
+![header](https://capsule-render.vercel.app/api?type=Waving&height=160&text=Hi%20there👋&fontAlignY=30&desc=TaeWoo%20GitHub&fontColor=d6ace6&section=header&descAlign=50)
 
 <!-- https://github.com/kyechan99/capsule-render#wave -->
 

@@ -66,6 +66,7 @@ https://simpleicons.org/?q=visual%20st -->
 <img src="https://img.shields.io/badge/scikit-learn-f7931e?style=plastic&logo=scikit-learn&logoColor=black"/> 
 <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=plastic&logo=TensorFlow&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Keras-d00000?style=plastic&logo=Keras&logoColor=black"/> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=OpenCV&logoColor=black"/>
 </div>
 
 ### Data Engineering

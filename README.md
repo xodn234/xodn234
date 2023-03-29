@@ -1,9 +1,16 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=160&text=Hi%20there👋&fontAlignY=30&desc=TaeWoo%20GitHub&fontColor=d6ace6&section=header&descAlign=50)
+# 🍀 Hello! TaeWoo GitHub
+**Interested**
+- Data Science
+- Data Engineering
+- DevOps & MLOps
 
 <!-- https://github.com/kyechan99/capsule-render#wave -->
 
-# 🍀 Introduction
+<br>
+<br>
+
+# 💻 Introduction
 
 <div align="center">
 <!-- Hi there 👋 -->
@@ -65,7 +72,6 @@ Thank you.
 
 <br>
 <br>
-<br>
 
 # 🦾 Skill
 
@@ -74,6 +80,7 @@ Thank you.
 <div/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&&logoColor=black"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&&logoColor=black"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&&logoColor=black"/> 
 </div>
@@ -103,7 +110,7 @@ Thank you.
 <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=MongoDB&logoColor=black"/>
 </div>
 
-#### Web
+#### Web & App
 <div/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=black"/>
@@ -111,6 +118,7 @@ Thank you.
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=Gunicorn&logoColor=black"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=black"/>
 </div>
 
 #### OS
@@ -133,6 +141,7 @@ Thank you.
 <img src="https://img.shields.io/badge/Anaconda-44a833?style=plastic&logo=Anaconda&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=Git&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=black"/>
 </div>
 
 

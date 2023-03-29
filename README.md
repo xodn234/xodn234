@@ -117,6 +117,7 @@ https://simpleicons.org/?q=visual%20st -->
 <img src="https://img.shields.io/badge/Visual Studio-5c2d91?style=plastic&logo=Visual Studio&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Anaconda-44a833?style=plastic&logo=Anaconda&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Git-f05032?style=plastic&logo=Git&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=black"/>
 </div>
 
 

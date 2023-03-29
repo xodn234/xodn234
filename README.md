@@ -119,7 +119,7 @@ Thank you.
 <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=black"/>
 </div>
 
-#### Other
+#### Tool
 <div/>
 <img src="https://img.shields.io/badge/Google Colab-f9ab00?style=plastic&logo=Google Colab&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Jupyter-f37626?style=plastic&logo=Jupyter&logoColor=black"/> 

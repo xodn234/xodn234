@@ -50,12 +50,13 @@ https://simpleicons.org/?q=visual%20st -->
 
 <br>
 
+- - -
 I am passionate about data and technology. In the process of creating appropriate infrastructure for data analysis, I strive to improve the stability and performance of the system by applying the concepts and techniques of data engineering and DevOps. Recently, I have been studying Docker and Kubernetes to implement these technologies.
 
 My goal is to increase the efficiency of data analysis by building a data pipeline for fast analysis and effective data visualization. To become a data scientist, I am constantly learning new technologies and concepts, and accumulating knowledge and experience in data and technology.
 
 Thank you.
-  
+- - -
 <!-- div align="center" -->
 ### Language
 <div/>

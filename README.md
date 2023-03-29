@@ -1,3 +1,9 @@
+
+![header](https://capsule-render.vercel.app/api?type=Waving&height=150&text=Hi%20there👋&fontAlignY=30&desc=TaeWoo%20GitHub&fontColor=d6ace6)
+
+
+<!-- https://github.com/kyechan99/capsule-render#wave -->
+
 # 🍀 Introduction
 
 <div align="center">

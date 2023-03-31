@@ -122,13 +122,13 @@ Thank you.
 
 #### OS
 <div/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=Windows&logoColor=black"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macOS&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=black"/>
 <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=Kubernetes&logoColor=black"/>
 </div>
 
 #### Tool

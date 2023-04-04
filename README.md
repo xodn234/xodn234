@@ -79,9 +79,9 @@ Thank you.
 <div/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&&logoColor=black"/> 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&&logoColor=black"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&&logoColor=black"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&&logoColor=black"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&&logoColor=black"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=Dart&&logoColor=black"/> 
 </div>
 
 #### Data Science

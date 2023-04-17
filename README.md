@@ -31,6 +31,7 @@
 - Data Engineering
 - DevOps & MLOps
 - Cloud
+- Infra
 
 <!-- https://github.com/kyechan99/capsule-render#wave -->
 

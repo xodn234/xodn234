@@ -113,6 +113,8 @@ Thank you.
 <div/>
 <img src="https://img.shields.io/badge/SQLite-003b57?style=plastic&logo=SQLite&logoColor=black"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=plastic&logo=PostgreSQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/mssql-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=MongoDB&logoColor=black"/>
 </div>
 

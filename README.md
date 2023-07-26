@@ -35,6 +35,9 @@
 
 <!-- https://github.com/kyechan99/capsule-render#wave -->
 
+
+<!-- https://simpleicons.org/ -->
+
 <br>
 <br>
 
@@ -103,6 +106,7 @@ Thank you.
 <img src="https://img.shields.io/badge/Apache NiFi-343434?style=plastic&logo=Apache&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=plastic&logo=Apache Airflow&logoColor=black"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=black"/>
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=plastic&logo=apachekafka&logoColor=black"/>
 </div>
 
 #### DB

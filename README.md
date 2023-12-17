@@ -125,7 +125,7 @@ Thank you.
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=plastic&logo=Gunicorn&logoColor=black"/> 
 <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=NGINX&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=black"/> -->
 </div>
 
 #### OS

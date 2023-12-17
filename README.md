@@ -116,6 +116,8 @@ Thank you.
 <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=black"/>
 <img src="https://img.shields.io/badge/mssql-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=black"/>
 <img src="https://img.shields.io/badge/MongoDB-47a248?style=plastic&logo=MongoDB&logoColor=black"/>
+<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/apachehive-FDEE21?style=plastic&logo=apachehive&logoColor=black"/>
 </div>
 
 #### Web & App

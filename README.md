@@ -31,7 +31,6 @@
 - Embedded Systems
 - Data Engineering
 - Data Science
-- AI
 
 
 <!-- https://github.com/kyechan99/capsule-render#wave -->

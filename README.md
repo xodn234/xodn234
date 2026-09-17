@@ -31,6 +31,10 @@
 - Embedded Systems
 - Data Engineering
 - Data Science
+- Circuit Design
+- Robotics
+- Nuclear Instrumentation
+- Bioprocess Automation
 
 
 <!-- https://github.com/kyechan99/capsule-render#wave -->
@@ -68,7 +72,7 @@ Here are some ideas to get you started:
 https://simpleicons.org/?q=visual%20st -->
 
 
-I have a strong interest in embedded systems and work in both hardware and software fields. Currently, I am involved in a gamma-ray detection project in the nuclear field, focusing on precise and reliable data acquisition and processing. In the future, I aim to expand my expertise to include FPGA development to contribute to building efficient, high-performance systems for complex detection and analysis tasks. Through continuous learning and hands-on experience, I will continue to connect hardware and software solutions.
+I have a strong interest in embedded systems and work in both hardware and software fields. Previously, I developed a gamma-ray detection project in the nuclear field. Currently, I am working on a bioprocess automation project in the robotics field. Through continuous learning and hands-on experience, I will continue to connect hardware and software solutions.
 
 Thank you.
 
